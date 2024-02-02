@@ -13,7 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{ananyasinghz}}/achievements?format=svg&limit=3" width="350" />
-</p>
 
