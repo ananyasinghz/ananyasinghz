@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ananyasinghz
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning c/full stack dev/c++/android dev/app dev
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me is at my mail- ananyasinghz2301@gmail.com
