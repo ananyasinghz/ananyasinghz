@@ -52,9 +52,7 @@
 ##  Fun Badges & Extras
 
 <p align="center">
-  <a href="https://github.com/ananyasinghz">
-    <img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=ananyasinghz&style=flat-square&color=blue" />
-  </a>
+  <a href="https://github.com/ananyasinghz">\
 </p>
 
 <p align="center">
