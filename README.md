@@ -49,10 +49,9 @@
 
 ---
 
-##  Fun Badges & Extras
 
 <p align="center">
-  <a href="https://github.com/ananyasinghz">\
+  <a href="https://github.com/ananyasinghz">
 </p>
 
 <p align="center">
