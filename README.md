@@ -55,11 +55,11 @@
 | Platform     | Link                                       |
 |--------------|--------------------------------------------|
 | GitHub       | https://github.com/ananyasinghz           |
-| LinkedIn     | https://www.linkedin.com/in/yourprofile   |
+| LinkedIn     | https://www.linkedin.com/in/ananya-singh-21853628a   |
 | Portfolio    | https://ananyasingh-smoky.vercel.app      |
 
 ---
 
 <p align="center">
-  <img alt="Current UTC Time" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&lines=Always+learning+...+Always+building..." />
+  <img alt="Current UTC Time" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&lines=Always+learning+...+Always+building..." />
 </p>
